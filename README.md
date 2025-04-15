@@ -48,6 +48,6 @@ A simple CNN based neural network is created using the topology in `HAR.py`. The
 The HAR model provided in this work can be further extended to perform the user identification from walking activity. Accelerometer dataset from 22 indivduals can be downloaded from the following [[link]](http://archive.ics.uci.edu/ml/datasets/User+Identification+From+Walking+Activity)
 
 ## STM32Cube-AI Deploy
-For model deployment, refer to the following link for configuration.
+For model deployment, refer to the following link for configuration.\
 1.[Link1](https://blog.csdn.net/qq_39400113/article/details/122021900)\
 2.[Link2](https://blog.csdn.net/weixin_63113550/article/details/145967973?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7EPosition-4-145967973-blog-135358192.235%5Ev43%5Epc_blog_bottom_relevance_base1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7EPosition-4-145967973-blog-135358192.235%5Ev43%5Epc_blog_bottom_relevance_base1&utm_relevant_index=7)
